@@ -1,0 +1,6 @@
+s = input()
+rev = s[::-1]
+print(rev)
+//OUTPUT:-
+string = Hello, World!
+Reversed string = !dlroW ,olleH
